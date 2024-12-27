@@ -9,6 +9,9 @@ Make a distributed social network!
 
 [Project Details](https://uofa-cmput404.github.io/general/project.html)
 
+## [![CMPUT 404 Video](https://img.youtube.com/vi/1eEFIIfovMM/0.jpg)](https://youtu.be/1eEFIIfovMM)
+
+
 ## 🌸 _team mistyrose_
 
 * Syjer Asuncion
